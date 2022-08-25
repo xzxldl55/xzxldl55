@@ -6,7 +6,7 @@
 - 📫 联系方式
   - wx：**xzxldl55**
   - 邮箱：**476630095@qq.com**
-- 🔭 I’m currently working on NaiCha City
+- 🔭 I’m currently working in NaiCha City
 ⚡⚡⚡
 
 ---
