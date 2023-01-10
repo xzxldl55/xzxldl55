@@ -3,9 +3,9 @@
 <img align="right" alt="GIF" height="170px" style="float: right;" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## Contact
-- 📫 联系方式
-  - wx：**xzxldl55**
-  - 邮箱：**476630095@qq.com**
+- 📫 contact
+  - wechat：**xzxldl55**
+  - email：**476630095@qq.com**
 - 🔭 I’m currently working in NaiCha City
 ⚡⚡⚡
 
