@@ -1,4 +1,4 @@
-# Hi 👋 I'm xzxldl55 <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=xzxldl55"/>
+# Hi 👋 I'm xzxldl55
 
 <img align="right" alt="GIF" height="170px" style="float: right;" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
