@@ -6,7 +6,7 @@
 - 📫 contact
   - wechat：**xzxldl55**
   - email：**476630095@qq.com**
-- 🔭 I’m currently working in NaiCha City
+- 🔭 Freedom is supreme.
 ⚡⚡⚡
 
 ---
